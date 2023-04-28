@@ -1,1 +1,1 @@
-# terminal
+GitHab lesson
